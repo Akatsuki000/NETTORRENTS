@@ -8,7 +8,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red][B]NET[B][/COLOR] [COLOR lime][B]TORRENTS[/B][/COLOR] - [B]LANÇAMENTOS[/B]</name>
+<name>[COLOR red][B]NET[B][/COLOR] [COLOR lime][B]TORRENTS[/B][/COLOR] - [B]FILMES LANÇAMENTOS[/B]</name>
 <thumbnail>https://ia601405.us.archive.org/11/items/nettefree-icon/NETTEFREE%20ICON.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Akatsuki000/NETTORRENTS/main/PASTA%20LAN%C3%87AMENTOS</externallink>
 <fanart>https://ia801402.us.archive.org/7/items/netflixlogo.-0.0-fundo/netflixlogo.0.0%20fundo.png</fanart>
@@ -21,20 +21,6 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>
-<channel>
-<name>[COLOR red][B]NET[B][/COLOR] [COLOR lime][B]TORRENTS[/B][/COLOR] - [B]TRILOGIA[/B]</name>
-<thumbnail>https://ia601405.us.archive.org/11/items/nettefree-icon/NETTEFREE%20ICON.png</thumbnail>
-<externallink>RAW AQUI</externallink>
-<fanart>https://ia801402.us.archive.org/7/items/netflixlogo.-0.0-fundo/netflixlogo.0.0%20fundo.png</fanart>
-<info>
-
-
-[B]OS MELHORES FILMES EM UM SO LUGAR [COLOR red]ATENÇÃO[/COLOR][COLOR green] Necessario addon Elementum instalado[/COLOR][/B]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
 <channel>
