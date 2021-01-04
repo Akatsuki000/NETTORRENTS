@@ -1,6 +1,22 @@
 <channels>
 <channel>
-<name>[COLOR red][B]NET[B][/COLOR] [COLOR lime][B]TORRENTS[/B][/COLOR] - [B]TV AO VIVO (87) 999276248[/B]</name>
+<name>[COLOR lime][B]u[B][/COLOR][COLOR lime][B]TORRENT[/B][/COLOR] Necessario addon Elementum instalado, use semprem VPN- [B][/B]</name>
+<thumbnail>https://ia601405.us.archive.org/11/items/nettefree-icon/NETTEFREE%20ICON.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801402.us.archive.org/7/items/netflixlogo.-0.0-fundo/netflixlogo.0.0%20fundo.png</fanart>
+<info>
+
+
+[B][COLOR red]ATENÇÃO[/COLOR][COLOR lime] Necessario addon Elementum instalado[/COLOR][/B]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR line][B]u[B][/COLOR] [COLOR lime][B]TORRENT[/B][/COLOR] - [B]TV AO VIVO (87) 999276248[/B]</name>
 <thumbnail>https://ia601405.us.archive.org/11/items/nettefree-icon/NETTEFREE%20ICON.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801402.us.archive.org/7/items/netflixlogo.-0.0-fundo/netflixlogo.0.0%20fundo.png</fanart>
@@ -8,7 +24,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red][B]NET[B][/COLOR] [COLOR lime][B]TORRENTS[/B][/COLOR] - [B]FILMES LANÇAMENTOS[/B]</name>
+<name>[COLOR line][B]u[B][/COLOR] [COLOR lime][B]TORRENT[/B][/COLOR] - [B]FILMES LANÇAMENTOS[/B]</name>
 <thumbnail>https://ia601405.us.archive.org/11/items/nettefree-icon/NETTEFREE%20ICON.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Akatsuki000/NETTORRENTS/main/PASTA%20LAN%C3%87AMENTOS</externallink>
 <fanart>https://ia801402.us.archive.org/7/items/netflixlogo.-0.0-fundo/netflixlogo.0.0%20fundo.png</fanart>
@@ -24,7 +40,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red][B]NET[B][/COLOR] [COLOR lime][B]TORRENTS[/B][/COLOR] - [B]SÉRIES[/B]</name>
+<name>[COLOR lime][B]u[B][/COLOR] [COLOR lime][B]TORRENT[/B][/COLOR] - [B]SÉRIES[/B]</name>
 <thumbnail>https://ia601405.us.archive.org/11/items/nettefree-icon/NETTEFREE%20ICON.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Akatsuki000/NETFREE/master/PASTA%20DE%20SERIES</externallink>
 <fanart>https://ia801402.us.archive.org/7/items/netflixlogo.-0.0-fundo/netflixlogo.0.0%20fundo.png</fanart>
@@ -40,7 +56,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red][B]NET[B][/COLOR][COLOR lime][B]TORRENTS[/B][/COLOR] - [B]ANIMES[/B]</name>
+<name>[COLOR lime][B]u[B][/COLOR][COLOR lime][B]TORRENT[/B][/COLOR] - [B]ANIMES[/B]</name>
 <thumbnail>https://ia601405.us.archive.org/11/items/nettefree-icon/NETTEFREE%20ICON.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801402.us.archive.org/7/items/netflixlogo.-0.0-fundo/netflixlogo.0.0%20fundo.png</fanart>
