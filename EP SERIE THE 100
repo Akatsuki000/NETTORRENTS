@@ -46,15 +46,11 @@
 <info>[COLOR lime] [/COLOR]</info>
 <genre></genre>
 </item>
-<channels>
-<channel>
-<name>[COLOR lime]*[/COLOR] [B]TEMPORADA 7 [/B]</name>
-<thumbnail>https://i.imgur.com/EvINPe6.jpg</thumbnail>
-<externallink></externallink>
+<item>
+<title>[B]TEMPORADA 7[/B]</title>
+externallink></externallink>
+<thumbnail></thumbnail>
 <fanart>https://i0.wp.com/noticiasetecnologia.com/wp-content/uploads/2019/05/The-100.jpg?resize=674%2C379&ssl=1</fanart>
-<info>Sinopse:[COLOR lime] Quando uma guerra nuclear destruiu a civilização e o planeta Terra, os únicos sobreviventes foram 400 pessoas que estavam em 12 estações espaciais em órbita. 97 anos e três gerações depois, a população já contava com 4 mil pessoas, mas os recursos já vão escassos. Para garantir o futuro, um grupo de cem jovens é enviado à superfície da Terra para descobrir se ela está habitável. Com a sobrevivência da raça humana em suas mãos, estes jovens precisam superar suas diferenças e unir forças para cruzar juntos o seu caminho.[/COLOR]</info>
-<genre>Drama / Fantasia / Ficção</genre>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<info>[COLOR lime] [/COLOR]</info>
+<genre></genre>
+</item>
